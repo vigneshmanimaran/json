@@ -1,52 +1,56 @@
 {
-    "Products": [
+    "Sheet1": [
         {
             "id ": "1",
             "name": "Awesome Product 1",
-            "price": "2748",
+            "pricee": "2748",
             "color": "white",
             "soldBy": "Macmerise celfie",
             "priceAfterDiscount": "1099",
             "Discount": "60%",
             "size": "onesize",
             "quantity": "1",
-            "delivery": "Delivery in 4 - 6 days"
+            "delivery": "Delivery in 4 - 6 days",
+            "rmwish": "remove | wishlist"
         },
         {
             "id ": "2",
             "name": "Cool Product 2",
-            "price": "2748",
+            "pricee": "2748",
             "color": "black",
             "soldBy": "Macmerise celfie",
             "priceAfterDiscount": "1099",
             "Discount": "60%",
             "size": "onesize",
             "quantity": "1",
-            "delivery": "Delivery in 4 - 6 days"
+            "delivery": "Delivery in 4 - 6 days",
+            "rmwish": "remove | wishlist"
         },
         {
             "id ": "3",
             "name": "Amazing Product 3",
-            "price": "2748",
+            "pricee": "2748",
             "color": "black",
             "soldBy": "Macmerise celfie",
             "priceAfterDiscount": "1099",
             "Discount": "60%",
             "size": "onesize",
             "quantity": "1",
-            "delivery": "Delivery in 4 - 6 days"
+            "delivery": "Delivery in 4 - 6 days",
+            "rmwish": "remove | wishlist"
         },
         {
             "id ": "4",
             "name": "Huge Product 4",
-            "price": "2748",
+            "pricee": "2748",
             "color": "white",
             "soldBy": "Macmerise celfie",
             "priceAfterDiscount": "1099",
             "Discount": "60%",
             "size": "onesize",
             "quantity": "1",
-            "delivery": "Delivery in 4 - 6 days"
+            "delivery": "Delivery in 4 - 6 days",
+            "rmwish": "remove | wishlist"
         }
     ]
 }
