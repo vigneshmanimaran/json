@@ -11,7 +11,7 @@
             "size": "size : onesize",
             "quantity": "QTY : 1",
             "delivery": "Delivery in 4 - 6 days",
-            "rmwish": "remove | wishlist"
+            "rmwish": "remove | Move to wishlist"
         },
         {
             "id": "2",
@@ -24,7 +24,7 @@
             "size": "size : onesize",
             "quantity": "QTY : 1",
             "delivery": "Delivery in 4 - 6 days",
-            "rmwish": "remove | wishlist"
+            "rmwish": "remove | Move to wishlist"
         },
         {
             "id": "3",
@@ -37,7 +37,7 @@
             "size": "size : onesize",
             "quantity": "QTY : 1",
             "delivery": "Delivery in 4 - 6 days",
-            "rmwish": "remove | wishlist"
+            "rmwish": "remove | Move to wishlist"
         },
         {
             "id": "4",
@@ -50,7 +50,7 @@
             "size": "size : onesize",
             "quantity": "QTY : 1",
             "delivery": "Delivery in 4 - 6 days",
-            "rmwish": "remove | wishlist"
+            "rmwish": "remove | Move to wishlist"
         }
     ]
 }
