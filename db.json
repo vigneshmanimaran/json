@@ -1,7 +1,7 @@
 {
     "Products": [
         {
-            "id ": "1",
+            "id": "1",
             "name": "Awesome Product 1",
             "pricee": "2748",
             "color": "white",
@@ -14,7 +14,7 @@
             "rmwish": "remove | wishlist"
         },
         {
-            "id ": "2",
+            "id": "2",
             "name": "Cool Product 2",
             "pricee": "2748",
             "color": "black",
@@ -27,7 +27,7 @@
             "rmwish": "remove | wishlist"
         },
         {
-            "id ": "3",
+            "id": "3",
             "name": "Amazing Product 3",
             "pricee": "2748",
             "color": "black",
@@ -40,7 +40,7 @@
             "rmwish": "remove | wishlist"
         },
         {
-            "id ": "4",
+            "id": "4",
             "name": "Huge Product 4",
             "pricee": "2748",
             "color": "white",
